@@ -1,7 +1,7 @@
 /********** Template CSS **********/
 :root {
-    --primary: #ffb52b;
-    --light: #ffe7c3;
+    --primary: #06BBCC;
+    --light: #F0FBFC;
     --dark: #181d38;
 }
 
@@ -272,7 +272,7 @@
 }
 
 
-/*** Categories & Results ***/
+/*** Categories & Courses ***/
 .category img,
 .course-item img {
     transition: .5s;

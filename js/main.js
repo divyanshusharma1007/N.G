@@ -63,7 +63,7 @@
         }
     });
     $('.back-to-top').click(function () {
-        $('NG Jain, body').animate({scrollTop: 0}, 1500, 'easeInOutExpo');
+        $('html, body').animate({scrollTop: 0}, 1500, 'easeInOutExpo');
         return false;
     });
 

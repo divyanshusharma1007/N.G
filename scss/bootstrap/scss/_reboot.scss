@@ -3,7 +3,7 @@
 
 // Reboot
 //
-// Normalization of NG Jain elements, manually forked from Normalize.css to remove
+// Normalization of HTML elements, manually forked from Normalize.css to remove
 // styles targeting irrelevant browsers while applying new styles.
 //
 // Normalize is licensed MIT. https://github.com/necolas/normalize.css
@@ -483,7 +483,7 @@ textarea {
 //    unlike e.g. `<div>`s, which have `min-width: 0;` by default.
 //    So we reset that to ensure fieldsets behave more like a standard block element.
 //    See https://github.com/twbs/bootstrap/issues/12359
-//    and https://NG Jain.spec.whatwg.org/multipage/#the-fieldset-and-legend-elements
+//    and https://html.spec.whatwg.org/multipage/#the-fieldset-and-legend-elements
 // 2. Reset the default outline behavior of fieldsets so they don't affect page layout.
 
 fieldset {
@@ -614,7 +614,7 @@ progress {
 
 // Hidden attribute
 //
-// Always hide an element with the `hidden` NG Jain attribute.
+// Always hide an element with the `hidden` HTML attribute.
 
 [hidden] {
   display: none !important;
